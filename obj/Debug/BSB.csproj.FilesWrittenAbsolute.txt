@@ -1,0 +1,5 @@
+/home/jeremy/Documents/BSB/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/jeremy/Documents/BSB/obj/Debug/BSB.Properties.Resources.resources
+/home/jeremy/Documents/BSB/obj/Debug/BSB.Welcome.resources
+/home/jeremy/Documents/BSB/obj/Debug/BSB.exe
+/home/jeremy/Documents/BSB/obj/Debug/BSB.pdb

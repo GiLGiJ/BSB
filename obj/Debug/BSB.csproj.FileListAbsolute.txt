@@ -1,0 +1,37 @@
+C:\Users\Jeremy Bickel\Documents\2019\LibNLPDB\BickelsBibleSearcher\ABSB\bin\Debug\BSB.exe.config
+C:\Users\Jeremy Bickel\Documents\2019\LibNLPDB\BickelsBibleSearcher\ABSB\bin\Debug\BSB.exe
+C:\Users\Jeremy Bickel\Documents\2019\LibNLPDB\BickelsBibleSearcher\ABSB\bin\Debug\BSB.pdb
+C:\Users\Jeremy Bickel\Documents\2019\LibNLPDB\BickelsBibleSearcher\ABSB\obj\Debug\BSB.Properties.Resources.resources
+C:\Users\Jeremy Bickel\Documents\2019\LibNLPDB\BickelsBibleSearcher\ABSB\obj\Debug\BSB.Welcome.resources
+C:\Users\Jeremy Bickel\Documents\2019\LibNLPDB\BickelsBibleSearcher\ABSB\obj\Debug\BSB.csproj.GenerateResource.Cache
+C:\Users\Jeremy Bickel\Documents\2019\LibNLPDB\BickelsBibleSearcher\ABSB\obj\Debug\BSB.exe
+C:\Users\Jeremy Bickel\Documents\2019\LibNLPDB\BickelsBibleSearcher\ABSB\obj\Debug\BSB.pdb
+C:\Users\Jeremy Bickel\Documents\2019\LibNLPDB\BickelsBibleSearcher\ABSB\obj\Debug\BSB.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy Bickel\Documents\2019\BSB\bin\Debug\BSB.exe.config
+C:\Users\Jeremy Bickel\Documents\2019\BSB\bin\Debug\BSB.exe
+C:\Users\Jeremy Bickel\Documents\2019\BSB\bin\Debug\BSB.pdb
+C:\Users\Jeremy Bickel\Documents\2019\BSB\obj\Debug\BSB.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy Bickel\Documents\2019\BSB\obj\Debug\BSB.Properties.Resources.resources
+C:\Users\Jeremy Bickel\Documents\2019\BSB\obj\Debug\BSB.Welcome.resources
+C:\Users\Jeremy Bickel\Documents\2019\BSB\obj\Debug\BSB.csproj.GenerateResource.Cache
+C:\Users\Jeremy Bickel\Documents\2019\BSB\obj\Debug\BSB.exe
+C:\Users\Jeremy Bickel\Documents\2019\BSB\obj\Debug\BSB.pdb
+H:\BSB\bin\Debug\BSB.exe.config
+H:\BSB\obj\Debug\BSB.exe
+H:\BSB\obj\Debug\BSB.pdb
+Y:\LibNLPDB\BSB\bin\Debug\BSB.exe
+Y:\LibNLPDB\BSB\bin\Debug\BSB.pdb
+Y:\LibNLPDB\BSB\obj\Debug\BSB.Properties.Resources.resources
+Y:\LibNLPDB\BSB\obj\Debug\BSB.Welcome.resources
+Y:\LibNLPDB\BSB\obj\Debug\BSB.csproj.GenerateResource.Cache
+Y:\LibNLPDB\BSB\obj\Debug\BSB.exe
+Y:\LibNLPDB\BSB\obj\Debug\BSB.pdb
+Y:\LibNLPDB\BSB\obj\Debug\BSB.BibleExplorer.resources
+D:\LibNLPDB\BSB\bin\Debug\BSB.exe
+D:\LibNLPDB\BSB\bin\Debug\BSB.pdb
+D:\LibNLPDB\BSB\obj\Debug\BSB.BibleExplorer.resources
+D:\LibNLPDB\BSB\obj\Debug\BSB.Properties.Resources.resources
+D:\LibNLPDB\BSB\obj\Debug\BSB.Welcome.resources
+D:\LibNLPDB\BSB\obj\Debug\BSB.csproj.GenerateResource.Cache
+D:\LibNLPDB\BSB\obj\Debug\BSB.exe
+D:\LibNLPDB\BSB\obj\Debug\BSB.pdb
